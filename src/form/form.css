@@ -1,0 +1,15 @@
+.main{
+    width: 50%;
+    margin: 0 auto;
+}
+
+.field{
+    width: 100%;
+    margin: 0 auto;
+    /* height: 30px; */
+    float: left;
+}
+
+.label{
+
+}
